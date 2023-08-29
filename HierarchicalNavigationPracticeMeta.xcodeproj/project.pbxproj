@@ -11,6 +11,7 @@
 		748867652A9EACBC00F45F77 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748867642A9EACBC00F45F77 /* ContentView.swift */; };
 		748867672A9EACBD00F45F77 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 748867662A9EACBD00F45F77 /* Assets.xcassets */; };
 		7488676A2A9EACBD00F45F77 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 748867692A9EACBD00F45F77 /* Preview Assets.xcassets */; };
+		748867712A9EB12E00F45F77 /* TabViewPracticeMeta.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748867702A9EB12E00F45F77 /* TabViewPracticeMeta.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		748867642A9EACBC00F45F77 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		748867662A9EACBD00F45F77 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		748867692A9EACBD00F45F77 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		748867702A9EB12E00F45F77 /* TabViewPracticeMeta.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewPracticeMeta.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				748867622A9EACBC00F45F77 /* HierarchicalNavigationPracticeMetaApp.swift */,
 				748867642A9EACBC00F45F77 /* ContentView.swift */,
+				748867702A9EB12E00F45F77 /* TabViewPracticeMeta.swift */,
 				748867662A9EACBD00F45F77 /* Assets.xcassets */,
 				748867682A9EACBD00F45F77 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				748867652A9EACBC00F45F77 /* ContentView.swift in Sources */,
+				748867712A9EB12E00F45F77 /* TabViewPracticeMeta.swift in Sources */,
 				748867632A9EACBC00F45F77 /* HierarchicalNavigationPracticeMetaApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
