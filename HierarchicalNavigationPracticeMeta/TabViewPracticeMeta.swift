@@ -10,15 +10,18 @@ import SwiftUI
 struct TabViewPracticeMeta: View {
     var body: some View {
         TabView {
-            Text("Home Page")
+//            Text("Home Page")
+            Color.gray
                 .font(.title)
                 .tabItem({
                     Label("Home",
                           systemImage: "house"
                     )
                 })
+                .badge(1)
             
-            Text("Menu Page")
+//            Text("Menu Page")
+            Color.black
                 .font(.title)
                 .tabItem({
                     Label("Menu",
